@@ -1,10 +1,10 @@
+# Summary
+
 True Hardcore only makes Hardcore characters not drop their items on death, but instead make them disappear and unretrievable.
 
 This fixes the problem in Multiplayer where the Hardcore characters can still retrieve their items, and thus allow for a true Hardcore Multiplayer experience!
 
-GitHub Repository: https://github.com/tieeeeen1994/tModLoader-TrueHardcore
-
-Changelogs:
+# Changelogs
 
 v0.4
 - Add GitHub repository.
