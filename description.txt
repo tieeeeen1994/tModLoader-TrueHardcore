@@ -6,6 +6,10 @@ GitHub Repository: https://github.com/tieeeeen1994/tModLoader-TrueHardcore
 
 Changelogs:
 
+v0.6
+- Updated to work with the latest tModLoader version.
+- No change, actually.
+
 v0.5
 - Hardcore characters will never drop their armor upon death anymore.
 - Hardcore characters will never drop their accessories upon death anymore.

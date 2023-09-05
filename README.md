@@ -6,6 +6,16 @@ This fixes the problem in Multiplayer where the Hardcore characters can still re
 
 # Changelogs
 
+v0.6
+- Updated to work with the latest tModLoader version.
+- No change, actually.
+
+v0.5
+- Hardcore characters will never drop their armor upon death anymore.
+- Hardcore characters will never drop their accessories upon death anymore.
+- Hardcore characters will never drop their pets, hooks and carts upon death anymore.
+- Hardcore characters will never drop their costumes anymore.
+
 v0.4
 - Add GitHub repository.
 
